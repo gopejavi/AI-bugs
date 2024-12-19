@@ -1,6 +1,6 @@
 # AI-bugs
 
-A Quality Engineer portfolio about issues found in Artificial Intelligence products.
+Issues found in Artificial Intelligence products.
 
 ## Goal
 
